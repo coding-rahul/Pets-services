@@ -1,0 +1,99 @@
+{
+  "Data": [
+    {
+      "service": "Pet shower",
+      "price": "2888",
+      "img": "https://th.bing.com/th/id/OIP.qJn6rSdKH8sxfdy4G1uiUQHaEP?pid=ImgDet&rs=1",
+      "id": 1
+    },
+    {
+      "service": "Nail Cutting",
+      "price": "999",
+      "img": "https://th.bing.com/th/id/OIP.aFsDPHv7dXngekaHx5ZLlwHaEo?w=296&h=185&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "id": 2
+    },
+    {
+      "service": "Pet Surgery",
+      "price": "15000",
+      "img": "https://th.bing.com/th/id/OIP.PjbqxwMMNjgODQhSoUxGagHaEQ?pid=ImgDet&rs=1",
+      "id": 3
+    },
+    {
+      "service": "Hair washing",
+      "price": "1800",
+      "img": "https://th.bing.com/th/id/OIP.jzRi-ZQYkhQJ_NeiC93erQHaE8?pid=ImgDet&rs=1",
+      "id": 4
+    },
+    {
+      "service": "Pet training",
+      "price": "5000",
+      "img": "https://www.thesprucepets.com/thmb/SDWsRzoBjnoRTYZ_JnK7je_66KY=/2119x1415/filters:fill(auto,1)/GettyImages-912145654-209bc347a59f42d693a356549ef6cf11.jpg",
+      "id": 5
+    },
+    {
+      "service": "Grooming",
+      "price": "8000",
+      "img": "https://kindapets.com/wp-content/uploads/2019/08/Best-Dog-Grooming-Clippers-For-Westies-2019.jpg",
+      "id": 6
+    },
+    {
+      "service": "Pet-Insurance",
+      "price": "8000",
+      "img": "https://kindapets.com/wp-content/uploads/2019/08/Best-Dog-Grooming-Clippers-For-Westies-2019.jpg",
+      "id": 7
+    },
+    {
+      "service": "Pet-sitting",
+      "price": "7000",
+      "img": "https://th.bing.com/th/id/OIP.qoXFPqYSNVZKGxYH6no8rwHaFn?pid=ImgDet&rs=1",
+      "id": 8
+    }
+  ],
+  "customer": [
+    {
+      "customerName": "Rahul Singh",
+      "email": "rs123@gmail.com",
+      "petName": "luci",
+      "lastService": "Pet shower",
+      "price": "2888",
+      "img": "https://th.bing.com/th/id/OIP.qJn6rSdKH8sxfdy4G1uiUQHaEP?pid=ImgDet&rs=1",
+      "id": 1
+    },
+    {
+      "customerName": "Vivek Kumar",
+      "email": "vk123@gmail.com",
+      "petName": "jenny",
+      "lastService": "Nail Cutting",
+      "price": "999",
+      "img": "https://th.bing.com/th/id/OIP.aFsDPHv7dXngekaHx5ZLlwHaEo?w=296&h=185&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "id": 2
+    },
+    {
+      "customerName": "Anurag Devedi",
+      "email": "anurag123@gmail.com",
+      "petName": "Rocky",
+      "lastService": "Pet Surgery",
+      "price": "15000",
+      "img": "https://th.bing.com/th/id/OIP.PjbqxwMMNjgODQhSoUxGagHaEQ?pid=ImgDet&rs=1",
+      "id": 3
+    },
+    {
+      "customerName": "Abhijeet jaiswal",
+      "email": "jaiswal123@gmail.com",
+      "petName": "Tommy",
+      "lastService": "Hair washing",
+      "price": "1800",
+      "img": "https://th.bing.com/th/id/OIP.jzRi-ZQYkhQJ_NeiC93erQHaE8?pid=ImgDet&rs=1",
+      "id": 4
+    },
+    {
+      "customerName": "Sparsh saket",
+      "email": "ss456@gmail.com",
+      "petName": "Alexa",
+      "lastService": "Pet training",
+      "price": "5000",
+      "img": "https://www.thesprucepets.com/thmb/SDWsRzoBjnoRTYZ_JnK7je_66KY=/2119x1415/filters:fill(auto,1)/GettyImages-912145654-209bc347a59f42d693a356549ef6cf11.jpg",
+      "id": 5
+    }
+  ]
+}

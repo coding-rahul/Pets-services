@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Body {
+    margin-top: 13vh;
+}
+
+.Cdetails {
+    margin-top: 6vh;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+
+}
+
+.details {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    width: 60%;
+    padding: 20px;
+
+}
+
+.cardDetails {
+    width: 30%;
+    text-align: center;
+    margin-left: 10%;
+
+}
+
+.detail-img {
+    text-align: end;
+    width: 30%;
+}
+
+.img {
+    width: 100%;
+}

@@ -1,0 +1,26 @@
+.Navbar {
+    height: 13vh;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: aliceblue;
+}
+
+.Nav-logo {
+    padding-left: 15vh;
+    font-size: 2rem;
+}
+
+.Nav-login {
+    padding-right: 10vh;
+
+}
+
+.Login-btn {
+    width: 4rem;
+    border-radius: 5px;
+    padding: 8px;
+    background-color: brown;
+    border-color: brown;
+}

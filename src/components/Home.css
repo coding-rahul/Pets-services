@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+}
+
+.Input-fld {
+    margin-top: 12vh;
+    text-align: center;
+}
+
+.search-box {
+    width: 40%;
+    height: 5vh;
+    border-color: black;
+    border-radius: 5px;
+}
+
+.Input-btn {
+    width: 4rem;
+    border-radius: 5px;
+    padding: 8px;
+    background-color: green;
+    border-color: green;
+    color: aliceblue;
+}
+
+.Body-heading {
+    color: red;
+    font-weight: 700;
+    font-size: 60px;
+    margin-left: 80px;
+}
+
+.row {
+    padding-left: 8%;
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(3, 30%);
+    column-gap: 50px;
+    row-gap: 10px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.service {
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+.service-img {
+    width: 80%;
+    height: 12rem;
+    border-radius: 8px;
+    margin: 25px 0 10px 0;
+}
+
+.Sname {
+    margin-top: 3px;
+    font-size: 500;
+    font-weight: 600;
+}
+
+.servicebtn {
+    width: 4rem;
+    border-radius: 5px;
+    padding: 8px;
+    background-color: green;
+    margin: 15px;
+    color: aliceblue;
+    border-color: green;
+}
+
+.Heading {
+    margin-top: 5vh;
+}
